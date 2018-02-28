@@ -1,0 +1,21 @@
+{
+	"name" : "finalbit/gsitemap",
+	"description" : "PrestaShop module create Google Sitemap",
+	"homepage" : "http://www.finalbit.ch",
+	"license" : "GPL-3.0",
+	"authors" : [{
+			"name" : "FinalBit",
+			"email" : "service@finalbit.ch"
+		}
+	],
+	"require" : {
+		"php" : ">=5.3.2"
+	},
+	"config" : {
+		"preferred-install" : "dist"
+	},
+	"type" : "prestashop-module",
+	"support" : {
+		"email" : "support@finalbit.ch"
+	}
+}
